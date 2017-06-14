@@ -1,0 +1,11 @@
+{
+  "name": "vdf-description-renamer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "vdf": "~0.0.2"
+  }
+}
