@@ -1,11 +1,3 @@
-/*
-    VDF Description Renamer
-    Replaces the "desc" parameter inside of SteamPipe app .vdf's with the given parameter.
-
-    Copyright (C) 2017  Jhett Black
-    All Rights Reserved
-*/
-
 var VDF = require('vdf');
 var fs = require('fs');
 
